@@ -17,7 +17,8 @@ O Hello World! é, tradicionalmente, o primeiro programa escrito ao se aprender 
 
 Para rodar os programas, basta ter as linguagens devidamente instaladas e utilizar os comandos abaixo no terminal:
 
-🐍 Python -> python3 HelloWorld.py
+🐍 Python
+![image](https://github.com/user-attachments/assets/b5b55782-a4b4-41ab-aac8-cf29727b2e98)
 
 🌐 JavaScript (Node.js) -> node HelloWorld.js
 
