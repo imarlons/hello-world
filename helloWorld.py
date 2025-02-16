@@ -1,2 +1,2 @@
-# a primeira linha de código tinha que estar relacionada a frase sagrada
+# hello world em 🐍Python
 print('hello world!')

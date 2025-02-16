@@ -1,4 +1,4 @@
-// hello world em go
+// hello world em 🐹Go 
 package main
 import "fmt"
 func main() {
