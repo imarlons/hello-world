@@ -9,30 +9,14 @@ O Hello World! é, tradicionalmente, o primeiro programa escrito ao se aprender 
 
 🖥️ Linguagens Utilizadas
 
-🐍 Python (helloWorld.py) 
-| 
-🌐 JavaScript (helloWorld.js) 
-| 
-☕ Java (HelloWorld.java) 
-| 
-⚙️ C (helloWorld.c) 
-| 
-🐹 Go (helloWorld.go) 
-| 
-💎 Ruby (helloWorld.rb) 
-| 
-🍎 Swift (helloWorld.swift) 
-| 
-🦀 Rust (helloWorld.rs) 
-| 
-📊 R (helloWorld.r)
+🐍 Python |  🌐 JavaScript | ☕ Java | ⚙️ C | 🐹 Go | 💎 Ruby | 🍎 Swift | 🦀 Rust | 📊 R 
 
 🚀 Como Executar os Exemplos
 
 Para rodar os programas, basta ter as linguagens devidamente instaladas e utilizar os comandos abaixo no terminal:
 
 ![image](https://github.com/user-attachments/assets/b5b55782-a4b4-41ab-aac8-cf29727b2e98)
-![image](https://github.com/user-attachments/assets/f73452e6-4373-4084-8946-98009322f067)
+![image](https://github.com/user-attachments/assets/af914088-f713-41e1-9d64-2e7ae3994146)
 ![image](https://github.com/user-attachments/assets/9d4ed7d1-bf01-4ba0-8433-07f58ed9c6ee)
 ![image](https://github.com/user-attachments/assets/3ed4128c-1997-42a0-8e6b-8260bf1040c3)
 ![image](https://github.com/user-attachments/assets/3500cdad-95b8-4f3b-80f1-4b970043ace9)
